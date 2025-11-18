@@ -1,12 +1,8 @@
 # Exp.No:3e
 ## SEB - STRING SLICING
 
----
-
 ### AIM  
 To write a Python function that accepts a string and forms a new string by reversing the characters from the **4th position to the 10th position** with **alternate characters**, and then prints the new string.
-
----
 
 ### ALGORITHM
 
@@ -18,13 +14,19 @@ To write a Python function that accepts a string and forms a new string by rever
 6. Print the final processed string.  
 7. Terminate the program.
 
----
-
 ### PROGRAM
 
 ```
-```
+#Reg.No: 212222060182
+#Name: Preethika S
 
+def splitstring(a):
+    x = a.split('@')
+    print(x)
+```
 ### OUTPUT
+<img width="928" height="242" alt="image" src="https://github.com/user-attachments/assets/3a3e580e-2c26-413e-ba3b-f3ed716aba32" />
+
 
 ### RESULT
+Thus the Python function that accepts a string and forms a new string by reversing the characters from the 4th position to the 10th position with alternate characters, and then prints the new string has been implemented and executed successfully.
